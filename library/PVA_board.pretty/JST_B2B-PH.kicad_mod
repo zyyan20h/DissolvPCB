@@ -1,0 +1,236 @@
+(footprint "JST_B2B-PH"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.025 -4.135 0)
+		(layer "F.SilkS")
+		(uuid "0d7798f4-b16e-4a18-943f-a0f44d0f99c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "JST_B2B-PH"
+		(at 10.77 3.665 0)
+		(layer "F.Fab")
+		(uuid "b610ea83-40e3-42fb-81bc-db5fbc2e71c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 -0.55 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "948942ec-0aa4-402c-bed5-f75147f2aee8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -0.55 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "801f02fa-021f-4bed-aaa7-567734adcf4b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 -0.55 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e4545f4-ea93-4908-bdc8-140ceac7808a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.95 -2.8)
+		(end 2.95 -2.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "663a7694-d17e-44cc-a722-a3ff41575512")
+	)
+	(fp_line
+		(start -2.95 1.7)
+		(end -2.95 -2.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "77891732-0306-4abc-aee6-6371d7a500a5")
+	)
+	(fp_line
+		(start 2.95 -2.8)
+		(end 2.95 1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de16c4c4-09d3-4042-b380-9ebf1ead38da")
+	)
+	(fp_line
+		(start 2.95 1.7)
+		(end -2.95 1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b87fd8d0-a391-4606-874c-36489e85c66d")
+	)
+	(fp_circle
+		(center 1 2.4)
+		(end 1.1 2.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "c21ab8a6-d8db-481b-a25c-9dc2cdd6d3ee")
+	)
+	(fp_line
+		(start -3.2 -3.05)
+		(end 3.2 -3.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "997e3e52-37c8-4600-8a19-aa010eebd32c")
+	)
+	(fp_line
+		(start -3.2 1.95)
+		(end -3.2 -3.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d7ab6271-ad2f-4dd7-8729-f693693d39f0")
+	)
+	(fp_line
+		(start 3.2 -3.05)
+		(end 3.2 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c0b041a9-afdf-4b6d-9e4d-61a732a39c9b")
+	)
+	(fp_line
+		(start 3.2 1.95)
+		(end -3.2 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "612d316c-21ff-49a9-84e2-e6f74b7f0e83")
+	)
+	(fp_line
+		(start -2.95 -2.8)
+		(end 2.95 -2.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0af18512-011f-4113-b1aa-ae6bff7031fb")
+	)
+	(fp_line
+		(start -2.95 1.7)
+		(end -2.95 -2.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "34e9c213-91a5-4fd7-b1db-e4b49ffc3ce4")
+	)
+	(fp_line
+		(start 2.95 -2.8)
+		(end 2.95 1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3ae80495-f104-40d8-8376-1ad73d23d610")
+	)
+	(fp_line
+		(start 2.95 1.7)
+		(end -2.95 1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0e53bcff-2235-4bca-934c-35f6f1c1b917")
+	)
+	(fp_circle
+		(center 1 2.4)
+		(end 1.1 2.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "19ce5b48-7295-4f59-bcae-3427b894a2ed")
+	)
+	(pad "1" thru_hole rect
+		(at 1 0)
+		(size 1.308 1.308)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "5af6f294-4523-44e8-8e4a-26e7960bfcc8")
+	)
+	(pad "2" thru_hole circle
+		(at -1 0)
+		(size 1.308 1.308)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "63c07232-f667-4039-8e4a-d2501c9d9b28")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/PVA_Board_3Dmodels/thruhole_2pin.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
