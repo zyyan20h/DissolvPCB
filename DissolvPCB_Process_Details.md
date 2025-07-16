@@ -8,7 +8,7 @@ This guide will instruct users through the steps of printing and preparation, as
 
 # DissolvPCB Printing & Preparation
 ## Materials 
-- In addition to things like 3D printers and eGaIn, other materials and tools needed for the DissolvPCB fabrication process are:
+- In addition to things like 3D printers and EGaIn, other materials and tools needed for the DissolvPCB fabrication process are:
 	- PPE - Gloves, Goggles
  	- Wet wipes (Such as Clorox)
   	- Magnetic Stirrers
@@ -37,51 +37,51 @@ This guide will instruct users through the steps of printing and preparation, as
     - Filament Dryer should be used whenever possible for the storage of filaments, prints, and finished circuits to avoid moisture damage.
     - If at any point of the DissolvPCB assembly the circuit gets moisture damaged, it can be reversed in most cases in a dryer. Slight changes like warping may remain to some degree.
 		
-## eGaIn Preparation 
+## EGaIn Preparation 
 
-### eGaIn Viscosity Control 
+### EGaIn Viscosity Control 
 - Oxidation Level
-	- The viscosity of the liquid metal is controlled by the oxidation level of eGaIn.
-	- eGaIn is very liquid at room temperature. If a thicker consistency is desired, the eGaIn can be oxidized using the magnetic stirrer.
+	- The viscosity of the liquid metal is controlled by the oxidation level of EGaIn.
+	- EGaIn is very liquid at room temperature. If a thicker consistency is desired, the EGaIn can be oxidized using the magnetic stirrer.
 		(Over the air exposure with periodic stirring will work, just slower)
 - Viscosity Control
-	- eGaIn viscosity can be fine tuned by mixing unoxidized eGaIn in appropriate ratios until the desired consistency is achieved.
+	- EGaIn viscosity can be fine tuned by mixing unoxidized EGaIn in appropriate ratios until the desired consistency is achieved.
 		<img src="https://github.com/user-attachments/assets/2fce9176-427c-4d46-b72e-ade76bdb8b0b" width="700">
 
-### eGaIn Storage and Collection 
+### EGaIn Storage and Collection 
 - General Storage
-	- eGaIn should be stored in neutral constainers, such as glass beakers.
-		If eGaIn is being stored period of time longer than an hour, a lid is recommended to prevent unwanted oxidation.
+	- EGaIn should be stored in neutral constainers, such as glass beakers.
+		If EGaIn is being stored period of time longer than an hour, a lid is recommended to prevent unwanted oxidation.
 	- For long term storage, plastic paint containers may be a good alternative.
 		A good sealing lid is essential.
 		<img src="https://github.com/user-attachments/assets/221ab0b0-e042-4a6e-814a-f14693b3120c" width="700">
 
 - Collection
-	- In most cases, eGaIn can easily be collected using a syringe or a pipette.
+	- In most cases, EGaIn can easily be collected using a syringe or a pipette.
    		<img src="https://github.com/user-attachments/assets/e09c6688-989d-4ebf-9490-9ab704cb41a9" width="700">
-	- In rare cases where the eGaIn is too thick to be sucked into a syringe, the eGaIn may have to be scooped into the syringe bit by bit.
-- eGaIn Recollection ('dump')
+	- In rare cases where the EGaIn is too thick to be sucked into a syringe, the EGaIn may have to be scooped into the syringe bit by bit.
+- EGaIn Recollection ('dump')
     - Having a small beaker of Sodium Hyroxide solution readily available is highly recommended.
-    - Any excess eGaIn can be easily collected into one container, while the NaOH solution deoxidizes them, ready for recollection and reuse.
+    - Any excess EGaIn can be easily collected into one container, while the NaOH solution deoxidizes them, ready for recollection and reuse.
  
 ### Safety and Cautions
 - PPE
 	- Gloves and Goggles are a must.
  	- Lab coats may be desireable in case of spills.
 - Cautions
-	- Small bits of eGaIn may remain on any surface and can spread easily if caution is not taken.
- 	- Wet wipes (as pictured) can be a great tool to pick up eGaIn on any surface for cleaning.
-  	- Always keep a seperate station dedicated to anything involved with eGaIn.
+	- Small bits of EGaIn may remain on any surface and can spread easily if caution is not taken.
+ 	- Wet wipes (as pictured) can be a great tool to pick up EGaIn on any surface for cleaning.
+  	- Always keep a seperate station dedicated to anything involved with EGaIn.
 
 
 # DissolvPCB Assembly
-## eGaIn
-### eGaIn Injection
+## EGaIn
+### EGaIn Injection
 - Syringe Tip
 	- Make sure the tip is clear of any obstruction before attaching to a syringe.
-	- The syringe tip can be stored in the NaOH solution after use to remove any leftover eGaIn.
+	- The syringe tip can be stored in the NaOH solution after use to remove any leftover EGaIn.
 - What is a 'good' injection?
-    - A slightly concave shape is desired, as excessive eGaIn can cause shorts and spills.
+    - A slightly concave shape is desired, as excessive EGaIn can cause shorts and spills.
 	<img src="https://github.com/user-attachments/assets/5f4d4545-0a47-4672-acd7-4e3b5c15d19d" width="700">
 
 ### Safety & Cautions
@@ -90,21 +90,21 @@ This guide will instruct users through the steps of printing and preparation, as
  	- Lab coats may be desireable in case of spills.
 - Cautions
 	- Be weary of potential spills being directed towards the body, especially the face.
- 	- Slow, fine manipulation of the eGaIn syringe is recommended, as eGaIn injection takes little to no force.
+ 	- Slow, fine manipulation of the EGaIn syringe is recommended, as EGaIn injection takes little to no force.
 	- Excessive injections on the print or syringe can be collected into the NaOH solution beaker.
- 		Here, the wet wipes can be used to 'wipe' execessive eGaIn into the beaker.
-	- When placing components later, checking the eGaIn for proper contact may be necessary.
+ 		Here, the wet wipes can be used to 'wipe' execessive EGaIn into the beaker.
+	- When placing components later, checking the EGaIn for proper contact may be necessary.
 
 ## Component Assembly
 ### Component Placement
-- Component can be gently seated into its respective sockets once eGaIn is injected.
+- Component can be gently seated into its respective sockets once EGaIn is injected.
 	A light push may be needed to ensure proper seating.
 	<img src="https://github.com/user-attachments/assets/b4e195d6-d039-4eca-82b7-757dfa06f793" width="700">
  
 ### Component PVA Glue 
 - The purpose of PVA glue is to:
   - Hold components in place
-  - Prevent eGaIn spills
+  - Prevent EGaIn spills
 - Cautions
   - PVA glue, especially ones with higher water content, may deform the circuit body slightly. 
   - Again, make sure there aren't any short circuits before the glue cures.
@@ -130,13 +130,13 @@ This guide will instruct users through the steps of printing and preparation, as
 	- Gloves and Goggles are a must.
  	- Lab coats may be desireable in case of spills.
 - Cautions
-	- Residual PVA and/or eGaIn may remain on surfaces. Take cautions to avoid contamination
+	- Residual PVA and/or EGaIn may remain on surfaces. Take cautions to avoid contamination
     
-## eGaIn Recovery 
+## EGaIn Recovery 
 
-### eGaIn Collection & De-Oxidation
-- Leftover eGaIn can be de-oxidized and re-consolidated easily using a solution of NaOH.
-- Afterwards, eGaIn can be collected using a pipette and stored safely until reuse.
+### EGaIn Collection & De-Oxidation
+- Leftover EGaIn can be de-oxidized and re-consolidated easily using a solution of NaOH.
+- Afterwards, EGaIn can be collected using a pipette and stored safely until reuse.
   	<img src="https://github.com/user-attachments/assets/c121fcb1-de04-4462-b4d6-fc394a2756b0" width="700">
 
 ### Safety & Disposal 
