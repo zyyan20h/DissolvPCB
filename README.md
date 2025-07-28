@@ -46,8 +46,7 @@ Detailed instructions on the entire DisssolvPCB fabrication process can be found
   The DRC settings can simply be imported from /KiCAD/DRC_Import_Prj/DRC_Import/DRC_Import.kicad_pcb, using the "Import Settings from Another Board" button under File -> Board Setup. 
   By importing "Design rule constraints", "Predefined track & via dimensions", and "Violation severities" (optional), 
   the PCB design will become compatible with the DissolvPCB fabrication process. (See attached below)
-	
-![Screenshot 2025-04-09 180100](https://github.com/user-attachments/assets/aeb7e37b-99a9-4a01-ab0c-9ea9d6ce369a)
+	<img width="471" height="348" alt="432048682-aeb7e37b-99a9-4a01-ab0c-9ea9d6ce369a" src="https://github.com/user-attachments/assets/58cc6446-e25f-443b-9e18-76bdb193775a" />
 
 ## Macro Execution
 FreeCAD has built-in support for Python macros. 
@@ -75,7 +74,7 @@ Some KiCAD Designs are provided, which are listed below.
 Note that Circuit_sample_01, circuit_sample_02, and ESP_Speaker designs are directly compatible with the macro, and does not require any modifications to replicate our designs. 
   - /KiCAD/circuit_sample/circuit_sample_01
     - Hall Sensor & ATTiny85 design, used throughout the paper
-      <img src="https://github.com/user-attachments/assets/06ce35b6-d45d-4064-a147-a932ce670817" width="700">
+      <img src="https://github.com/user-attachments/assets/d3338a86-03d3-4dde-baab-4d2cc3d44e42" width="700">
   - /KiCAD/circuit_sample/circuit_sample_02
     - Identical Hall Sensor & ATTiny85 design, but with different board outline
 	- /KiCAD/circuit_sample/recycled_driver
@@ -87,9 +86,8 @@ Note that Circuit_sample_01, circuit_sample_02, and ESP_Speaker designs are dire
     - ESP32-based bluetooth speaker design.
     - The exact design used on the paper demo is "rev_2_ESP_Speaker_2row_esp"
     - Alternatively, a design with components only on one side is under "rev_3_ESP_Speaker_2row_esp"
-      <img src="https://github.com/user-attachments/assets/868842f2-a890-483d-8ea3-bb42dc858a03" width="700">
+      <img src="https://github.com/user-attachments/assets/2b750f86-1c0d-4df2-8728-5473241576fc" width="700">
   - /KiCAD/fidget
     - Fidget toy example used on the paper, utilizing a 3D circuit design process.
-      <img src="https://github.com/user-attachments/assets/7c85f4da-c387-4eda-9c24-d5956c3bbeca" width="700">
-
+      <img src="https://github.com/user-attachments/assets/3157769b-eb6f-4d5d-8955-e13ad4a703e3" width="700">
 
