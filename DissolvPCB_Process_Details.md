@@ -17,8 +17,8 @@ This guide will instruct users through the steps of printing and preparation, as
   	- Syringe
   	- Fine Tweezers
   	  
-		<img src="https://github.com/user-attachments/assets/93e96a32-d90e-4850-b1aa-2b93d38e27f2" width="600">
- 
+		<img src="https://github.com/user-attachments/assets/7137710f-a78e-4d27-89fd-5fa2e34df4bb" width="600">
+
 ## DissolvPCB Printing
 ### PVA Nozzle 
 - Size
@@ -47,7 +47,7 @@ This guide will instruct users through the steps of printing and preparation, as
 - Viscosity Control
 	- EGaIn viscosity can be fine tuned by mixing unoxidized EGaIn in appropriate ratios until the desired consistency is achieved.
    
-		<img src="https://github.com/user-attachments/assets/2fce9176-427c-4d46-b72e-ade76bdb8b0b" width="600">
+		<img src="https://github.com/user-attachments/assets/7daf753e-8cae-4d78-a8e3-03c724eb3d48b" width="600">
 
 ### EGaIn Storage and Collection 
 - General Storage
@@ -56,12 +56,12 @@ This guide will instruct users through the steps of printing and preparation, as
 	- For long term storage, plastic paint containers may be a good alternative.
 		A good sealing lid is essential.
 
-		<img src="https://github.com/user-attachments/assets/221ab0b0-e042-4a6e-814a-f14693b3120c" width="600">
+		<img src="https://github.com/user-attachments/assets/d8e86984-1436-4117-9caf-460768b9ee1b" width="600">
 
 - Collection
 	- In most cases, EGaIn can easily be collected using a syringe or a pipette.
-   
-   		<img src="https://github.com/user-attachments/assets/e09c6688-989d-4ebf-9490-9ab704cb41a9" width="600">
+
+   		<img src="https://github.com/user-attachments/assets/18688b81-b0e0-4b3c-9993-0d1eaee9c712" width="600">
 	- In rare cases where the EGaIn is too thick to be sucked into a syringe, the EGaIn may have to be scooped into the syringe bit by bit.
 - EGaIn Recollection ('dump')
     - Having a small beaker of Sodium Hyroxide solution readily available is highly recommended.
@@ -86,7 +86,7 @@ This guide will instruct users through the steps of printing and preparation, as
 - What is a 'good' injection?
     - A slightly concave shape is desired, as excessive EGaIn can cause shorts and spills.
 
-	<img src="https://github.com/user-attachments/assets/5f4d4545-0a47-4672-acd7-4e3b5c15d19d" width="600">
+	<img src="https://github.com/user-attachments/assets/eb6c1f53-0a8b-4d49-8ef7-8f550143fd82" width="600">
 
 ### Safety & Cautions
 - PPE
@@ -104,7 +104,7 @@ This guide will instruct users through the steps of printing and preparation, as
 - Component can be gently seated into its respective sockets once EGaIn is injected.
 	A light push may be needed to ensure proper seating.
 
-	<img src="https://github.com/user-attachments/assets/b4e195d6-d039-4eca-82b7-757dfa06f793" width="600">
+ 	<img src="https://github.com/user-attachments/assets/e68b8294-3e4e-45b8-a29e-a5686f13cf1c" width="600">
  
 ### Component PVA Glue 
 - The purpose of PVA glue is to:
@@ -114,8 +114,8 @@ This guide will instruct users through the steps of printing and preparation, as
   - PVA glue, especially ones with higher water content, may deform the circuit body slightly. 
   - Again, make sure there aren't any short circuits before the glue cures.
 - After everything is finished, the circuit can be dried and kept using a filament drier.
-  
-  	<img src="https://github.com/user-attachments/assets/e7e492cc-4249-4bd3-81b9-32645a3f2dff" width="600">
+
+  	<img src="https://github.com/user-attachments/assets/cc9e9129-30ab-488d-aed8-a549fecd1524" width="600">
 
 # DissolvPCB Recycling
 
@@ -124,14 +124,14 @@ This guide will instruct users through the steps of printing and preparation, as
 ### Dissolving DissolvPCB Assemblies
 - Any DissolvPCB assembly may be dissolved simply by dropping it into water.
   The dissolving process can be accelerated using warmer water temperatures and occasional stirring.
-  
-  	<img src="https://github.com/user-attachments/assets/2203e801-1fb0-4cb1-a3e8-d7e339d98891" width="600">
+
+  	<img src="https://github.com/user-attachments/assets/d8029375-498a-41bf-8dcf-5c2602cfe1e1" width="600">
    
 ### Component Recovery
 - After DissolvPCB is completely dissolved in water, components can be simply plucked out of the PVA solution.
 - Components then can be cleaned and dried, then be ready for reuse.
-  
-	<img src="https://github.com/user-attachments/assets/61a6ffb1-b46d-496a-831f-566b7ee21e63" width="600">
+
+	<img src="https://github.com/user-attachments/assets/a09fac85-4bf6-4c55-9c8e-64c739b7b9a9" width="600">
 
 ### Safety & Cautions
 - PPE
@@ -145,8 +145,8 @@ This guide will instruct users through the steps of printing and preparation, as
 ### EGaIn Collection & De-Oxidation
 - Leftover EGaIn can be de-oxidized and re-consolidated easily using a solution of NaOH.
 - Afterwards, EGaIn can be collected using a pipette and stored safely until reuse.
-  
-  	<img src="https://github.com/user-attachments/assets/c121fcb1-de04-4462-b4d6-fc394a2756b0" width="600">
+
+  	<img src="https://github.com/user-attachments/assets/ebeeccba-65f9-48bd-af00-59a0547d4321" width="600">
 
 ### Safety & Disposal 
 - After the NaOH solution is used, the basic solution must be neutralized. A safe acidic solution, such as Citric Acid, may be used.
@@ -156,20 +156,20 @@ This guide will instruct users through the steps of printing and preparation, as
 ### PVA Recovery - Filter
 - The PVA solution should be filtered in case any contaminents are present.
   This also guarentees a cleaner extrusion when recyling the PVA into filament.
-  
-	<img src="https://github.com/user-attachments/assets/b4269e1b-559c-441a-8d22-488fc39dc5a1" width="600">
+
+	<img src="https://github.com/user-attachments/assets/75da4512-0c36-4e81-bb7c-f624cff32b9e" width="600">
   
 ### PVA Recovery - Drying
 - The PVA solution can be transferred into a petri dish to dry. A hot plate can be used here to accelerate the drying.
-  
-	<img src="https://github.com/user-attachments/assets/7fc9c474-944d-4756-82d1-f8fb5fb6eafb" width="600">
+
+	<img src="https://github.com/user-attachments/assets/ae06f46e-864a-4031-a4af-7cd5f082c5d7" width="600">
 
 
 ### PVA Recovery - PVA Glue
 - After a certain moisture content of the PVA solution is reached, it can be used as PVA glue for the next iteration of DissolvPCB.
 - Storage of PVA glue in a capped syringe may be appropriate.
-  
-	<img src="https://github.com/user-attachments/assets/39718fad-2894-4c61-ae3d-16adc372913d" width="600">
+
+	<img src="https://github.com/user-attachments/assets/029b05a6-3040-44db-be45-bd58de8d7fbd" width="600">
   
 ### PVA Recovery - PVA Filament
 #### Raw PVA Material Collection
@@ -177,7 +177,7 @@ This guide will instruct users through the steps of printing and preparation, as
 	- By drying the PVA solution all the way, sheets of PVA can be peeled from the container of choice.
 		A slightly flexible container can be easier to peel.
 
-	<img src="https://github.com/user-attachments/assets/778a2f83-fc05-4724-a9cc-3031a2be884d" width="600">
+	<img src="https://github.com/user-attachments/assets/1b88bf75-0a90-4e09-b4e9-4a95ec06bf17" width="600">
 
 - Moisture Control
 	- Extrusion quality can be heavily impacted by moisture in the processing material.
