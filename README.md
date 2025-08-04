@@ -11,7 +11,8 @@ were used for the demonstration of the DissolvPCB fabrication process.
 Listed below are the prerequisites and instructions on how to utilize this tool. 
 Detailed instructions on the entire DisssolvPCB fabrication process can be found under [DissolvPCB Processs Details](DissolvPCB_Process_Details.md).
 
-![fab 5](https://github.com/user-attachments/assets/b1558e9b-292b-478c-9791-79eaf2e3ef7f)
+
+![teaser_labelless](https://github.com/user-attachments/assets/6d101aba-aad8-44a8-bae3-45e257d9462e)
 
 ## Installation 
 
