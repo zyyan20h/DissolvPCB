@@ -3,7 +3,8 @@
 This document the full work flow of creating a circuit board based on the DissolvPCB process in detail, along with tips, recommendations, and general cautions. 
 This guide will instruct users through the steps of printing and preparation, assembling, and recycling, as highlighted in the figure below. 
 
-![fab 5](https://github.com/user-attachments/assets/523c905b-b3fc-4871-a722-75e2ee94cedc)
+![teaser_labelless](https://github.com/user-attachments/assets/82ac6e21-7850-41f6-88f2-974c2268439d)
+
 
 # DissolvPCB Printing & Preparation
 ## Materials 
