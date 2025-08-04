@@ -14,6 +14,18 @@ Detailed instructions on the entire DisssolvPCB fabrication process can be found
 
 ![teaser_labelless](https://github.com/user-attachments/assets/6d101aba-aad8-44a8-bae3-45e257d9462e)
 
+Please see the [paper](https://www.arxiv.org/abs/2507.22193) for more details on development, implementation, and evaluation of DissolvPCB, and if you use DissolvPCB in your work, please consider to cite the following paper:
+```
+@article{yan2025dissolvpcb,
+  title={DissolvPCB: Fully Recyclable 3D-Printed Electronics with Liquid Metal Conductors and PVA Substrates},
+  author={Yan, Zeyu and Hong, SuHwan and Hester, Josiah and Cheng, Tingyu and Peng, Huaishu},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3746059.3747604},
+  year={2025}，
+  booktitle = {Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology}
+}
+```
+
 ## Installation 
 
 ### Prerequisites
